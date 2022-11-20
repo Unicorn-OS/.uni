@@ -1,7 +1,7 @@
 import lib
 
 this = "telepathy"
-dirs = ["facebook", "skype", "twitter", "whatsapp"]
+dirs = ["email", "facebook", "skype", "twitter", "whatsapp"]
 
 
 dir_arr = lib.getDirs(this, dirs)
