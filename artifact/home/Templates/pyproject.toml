@@ -1,0 +1,5 @@
+[tool.setuptools]
+# ...
+package-dir = {"" = "src"}
+    # directory containing all the packages (e.g.  src/mypkg1, src/mypkg2)
+
